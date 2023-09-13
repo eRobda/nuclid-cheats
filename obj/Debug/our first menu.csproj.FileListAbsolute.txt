@@ -1,0 +1,20 @@
+C:\Users\Robin\source\repos\our first menu\our first menu\bin\Debug\our first menu.exe.config
+C:\Users\Robin\source\repos\our first menu\our first menu\bin\Debug\our first menu.exe
+C:\Users\Robin\source\repos\our first menu\our first menu\bin\Debug\our first menu.pdb
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our first menu.csproj.AssemblyReference.cache
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our first menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our_first_menu.Form1.resources
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our_first_menu.Properties.Resources.resources
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our first menu.csproj.GenerateResource.cache
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our first menu.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our first menu.exe
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our first menu.pdb
+C:\Users\Robin\source\repos\our first menu\our first menu\bin\Debug\System.CodeDom.dll
+C:\Users\Robin\source\repos\our first menu\our first menu\bin\Debug\System.CodeDom.xml
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our first menu.csproj.CopyComplete
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our_first_menu.Form2.resources
+C:\Users\Robin\source\repos\our first menu\our first menu\obj\Debug\our_first_menu.cheats.aimbot.resources
+C:\Users\Robin\source\repos\our first menu\our first menu\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Robin\source\repos\our first menu\our first menu\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Robin\source\repos\our first menu\our first menu\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Robin\source\repos\our first menu\our first menu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
